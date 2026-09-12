@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My Demo Express Project",
   "license": "ISC",
-  "author": "Abhay Raj (ARK)",
+  "author": "Anmol Dwivedi",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
@@ -19,3 +19,4 @@
     "nodemon": "^3.1.14"
   }
 }
+
